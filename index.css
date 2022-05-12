@@ -1,0 +1,19 @@
+h1 {
+  font-size: 100px !important;
+  font-family: fantasy;
+}
+#title{
+  border-style: solid;
+  background-color: white;
+  transform: scale(.7);
+  padding: 0px;
+  border-radius: 0%;
+  text-align: center;
+  text-decoration:
+}
+#image {
+  max-width: 50%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
