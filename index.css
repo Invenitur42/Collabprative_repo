@@ -17,3 +17,15 @@ h1 {
   height: auto;
   margin: auto;
 }
+#img-caption{
+  text-align: center;
+  font-family: georgia;
+  position: relative;
+  margin: auto;
+}
+#tribute-info{
+  background-color: rgb(20,20,20);
+  color: rgb(200,200,200);
+  text-align: center;
+  padding: 20px;
+}
